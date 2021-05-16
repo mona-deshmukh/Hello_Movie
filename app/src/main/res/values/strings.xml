@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Movie</string>
+    <string name="all_movies">All Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+</resources>
